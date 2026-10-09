@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # ---------- Page config ----------
 st.set_page_config(
     page_title="Fourier Series Calculator",
-    page_icon="📈"
+    page_icon="📈",
     layout="centered"
 )
 
